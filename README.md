@@ -1,2 +1,2 @@
 # blog-primary
-A basic multi-user blog using only tailwind for front-end.
+A basic multi-user blog with tailwind front-end.
